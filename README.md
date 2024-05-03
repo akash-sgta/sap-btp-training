@@ -24,7 +24,14 @@ File or Folder | Purpose
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
 
-
 >```cds build```
 
->
+>```cds bind -2 training-hditraining-db-deployer-ws-gz9b5:SharedDevKey```
+
+> ```npm install```
+
+>```cds watch --profile hybrid```
+
+> mta.yaml -- Build
+
+> mta_archives -- mtar -- Deploy
