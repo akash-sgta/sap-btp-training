@@ -35,3 +35,7 @@ Learn more at https://cap.cloud.sap/docs/get-started/.
 > mta.yaml -- Build
 
 > mta_archives -- mtar -- Deploy
+
+>```cds add xsuaa```
+
+>```cds watch```
